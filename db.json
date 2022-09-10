@@ -1,0 +1,50 @@
+{
+    "teams":[
+      "team alpha",
+      "team beta"
+    ],
+  "team alpha":[
+    {"entry":"player 1"},
+    {"second_entry":"player 2"},
+    {"flex/entry":"player 3"},
+    {"flex/support":"player 4"},
+    {"utility":"player 5"}
+  ],
+  "team beta":[
+    {"entry":"player 6"},
+    {"second_entry":"player 7"},
+    {"flex/entry":"player 8"},
+    {"flex/support":"player 9"},
+    {"utility":"player 10"}
+  ],
+    "player 1":[
+      //insert player details
+    ],
+    "player 2":[
+      //insert player details
+    ],
+    "player 3":[
+      //insert player details
+    ],
+    "player 4":[
+      //insert player details
+    ],
+    "player 5":[
+      //insert player details
+    ],
+    "player 6":[
+      //insert player details
+    ],
+    "player 7":[
+      //insert player details
+    ],
+    "player 8":[
+      //insert player details
+    ],
+    "player 9":[
+      //insert player details
+    ],
+    "player 10":[
+      //insert player details
+    ]
+  }
